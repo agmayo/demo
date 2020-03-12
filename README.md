@@ -3,5 +3,5 @@
 This is a simple readme file
 
 ## Heading 2
-+
-+JUst some updates, on a branch
+
+This is going to create conflict
